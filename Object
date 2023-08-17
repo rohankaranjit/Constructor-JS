@@ -1,0 +1,7 @@
+function Maid(name,age,hasWorkPermit,languages) {
+    this.name=name,
+    this.age=age,
+    this.WorkPermit=hasWorkPermit,
+    this.Languages=languages
+    
+}
