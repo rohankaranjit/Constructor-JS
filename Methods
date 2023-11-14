@@ -6,5 +6,5 @@ function Maid(name,age,hasWorkPermit,languages) {
     this.clean=function () {
         alert("Cleaning in progress");
     }
-   
+  
 }
