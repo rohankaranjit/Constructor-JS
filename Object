@@ -3,5 +3,5 @@ function Maid(name,age,hasWorkPermit,languages) {
     this.age=age,
     this.WorkPermit=hasWorkPermit,
     this.Languages=languages
-    
+  
 }
